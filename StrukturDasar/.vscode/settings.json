@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": ["src", "lib"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "/home/sandis/Downloads/Learning/DICODING - Memulai Pemrograman Dengan Java/Main Course/StrukturDasar/lib/commons-lang3-3.9.jar"
+  ]
+}
